@@ -1,0 +1,4 @@
+Faker==0.8.15
+findspark==1.1.0
+Flask==1.0.4
+freezegun==0.3.12

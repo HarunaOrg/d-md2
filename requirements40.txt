@@ -1,0 +1,4 @@
+dataclasses==0.6
+dataclasses-json==0.5.2
+dill==0.2.8.2
+dnspython==1.16.0

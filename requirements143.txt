@@ -1,0 +1,11 @@
+schedule==0.6.0
+scikit-learn==0.20.3
+scipy==1.4.1
+sendgrid==5.3.0
+setuptools==41.0.0
+simple-crypt==4.1.7
+soundex==1.1.3
+sparse-dot-topn==0.2.6
+spf2ip==1.0.5
+SQLAlchemy==1.1.10
+sqlalchemy_repr==0.0.1
